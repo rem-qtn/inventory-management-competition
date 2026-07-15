@@ -1,0 +1,241 @@
+customer_id,customer_name,segment,region,channel,patience_days
+CUST-001,Réseau Santé Rivoli 1,Private clinic,Occitanie,Contract,7
+CUST-002,Clinique Atlantique 2,University hospital,Auvergne-Rhône-Alpes,Public tender,10
+CUST-003,Laboratoire Mistral 3,University hospital,Provence-Alpes-Côte d’Azur,Public tender,10
+CUST-004,Centre Hospitalier Rivoli 4,Medical laboratory,Occitanie,Contract,5
+CUST-005,Réseau Santé Lumière 5,Private clinic,Île-de-France,Contract,7
+CUST-006,Centre Hospitalier Atlantique 6,Private clinic,Occitanie,Contract,7
+CUST-007,Laboratoire Lumière 7,Care home,Île-de-France,Contract,8
+CUST-008,Centre Hospitalier Mistral 8,Regional health network,Nouvelle-Aquitaine,Public tender,12
+CUST-009,Laboratoire Atlantique 9,Medical laboratory,Île-de-France,Contract,5
+CUST-010,Clinique Bastille 10,Care home,Île-de-France,Contract,8
+CUST-011,Réseau Santé Lumière 11,Regional health network,Nouvelle-Aquitaine,Public tender,12
+CUST-012,Centre Hospitalier Bastille 12,Care home,Provence-Alpes-Côte d’Azur,Contract,8
+CUST-013,Centre Hospitalier Rivoli 13,Care home,Auvergne-Rhône-Alpes,Contract,8
+CUST-014,Centre Hospitalier Bastille 14,Care home,Provence-Alpes-Côte d’Azur,Contract,8
+CUST-015,Clinique Lumière 15,Medical laboratory,Nouvelle-Aquitaine,Contract,5
+CUST-016,Centre Hospitalier Atlantique 16,Medical laboratory,Nouvelle-Aquitaine,Contract,5
+CUST-017,Clinique Atlantique 17,Regional health network,Occitanie,Public tender,12
+CUST-018,Clinique Atlantique 18,Medical laboratory,Occitanie,Contract,5
+CUST-019,Clinique Mistral 19,Regional health network,Provence-Alpes-Côte d’Azur,Public tender,12
+CUST-020,Réseau Santé Atlantique 20,Medical laboratory,Auvergne-Rhône-Alpes,Contract,5
+CUST-021,Centre Hospitalier Atlantique 21,Medical laboratory,Provence-Alpes-Côte d’Azur,Contract,5
+CUST-022,Laboratoire Lumière 22,Medical laboratory,Occitanie,Contract,5
+CUST-023,Clinique Mistral 23,Regional health network,Occitanie,Public tender,12
+CUST-024,Clinique Mistral 24,Regional health network,Nouvelle-Aquitaine,Public tender,12
+CUST-025,Centre Hospitalier Mistral 25,Care home,Provence-Alpes-Côte d’Azur,Contract,8
+CUST-026,Laboratoire Mistral 26,University hospital,Auvergne-Rhône-Alpes,Public tender,10
+CUST-027,Clinique Lumière 27,Medical laboratory,Provence-Alpes-Côte d’Azur,Contract,5
+CUST-028,Réseau Santé Mistral 28,Private clinic,Auvergne-Rhône-Alpes,Contract,7
+CUST-029,Clinique Bastille 29,Medical laboratory,Provence-Alpes-Côte d’Azur,Contract,5
+CUST-030,Laboratoire Lumière 30,Medical laboratory,Île-de-France,Contract,5
+CUST-031,Laboratoire Bastille 31,Care home,Auvergne-Rhône-Alpes,Contract,8
+CUST-032,Clinique Bastille 32,Care home,Auvergne-Rhône-Alpes,Contract,8
+CUST-033,Réseau Santé Rivoli 33,University hospital,Île-de-France,Public tender,10
+CUST-034,Groupe Médical Rivoli 34,Medical laboratory,Provence-Alpes-Côte d’Azur,Contract,5
+CUST-035,Groupe Médical Atlantique 35,Regional health network,Auvergne-Rhône-Alpes,Public tender,12
+CUST-036,Clinique Atlantique 36,University hospital,Nouvelle-Aquitaine,Public tender,10
+CUST-037,Réseau Santé Lumière 37,Care home,Île-de-France,Contract,8
+CUST-038,Clinique Rivoli 38,Medical laboratory,Nouvelle-Aquitaine,Contract,5
+CUST-039,Réseau Santé Bastille 39,Medical laboratory,Provence-Alpes-Côte d’Azur,Contract,5
+CUST-040,Groupe Médical Rivoli 40,University hospital,Nouvelle-Aquitaine,Public tender,10
+CUST-041,Centre Hospitalier Mistral 41,Medical laboratory,Provence-Alpes-Côte d’Azur,Contract,5
+CUST-042,Réseau Santé Mistral 42,Regional health network,Auvergne-Rhône-Alpes,Public tender,12
+CUST-043,Centre Hospitalier Rivoli 43,Regional health network,Provence-Alpes-Côte d’Azur,Public tender,12
+CUST-044,Centre Hospitalier Atlantique 44,Regional health network,Occitanie,Public tender,12
+CUST-045,Réseau Santé Mistral 45,Care home,Île-de-France,Contract,8
+CUST-046,Réseau Santé Atlantique 46,University hospital,Nouvelle-Aquitaine,Public tender,10
+CUST-047,Réseau Santé Atlantique 47,Private clinic,Nouvelle-Aquitaine,Contract,7
+CUST-048,Réseau Santé Atlantique 48,University hospital,Nouvelle-Aquitaine,Public tender,10
+CUST-049,Groupe Médical Mistral 49,University hospital,Auvergne-Rhône-Alpes,Public tender,10
+CUST-050,Clinique Mistral 50,University hospital,Île-de-France,Public tender,10
+CUST-051,Laboratoire Mistral 51,Care home,Provence-Alpes-Côte d’Azur,Contract,8
+CUST-052,Réseau Santé Bastille 52,Care home,Nouvelle-Aquitaine,Contract,8
+CUST-053,Groupe Médical Lumière 53,Medical laboratory,Occitanie,Contract,5
+CUST-054,Centre Hospitalier Mistral 54,Medical laboratory,Auvergne-Rhône-Alpes,Contract,5
+CUST-055,Groupe Médical Mistral 55,Care home,Occitanie,Contract,8
+CUST-056,Laboratoire Atlantique 56,Regional health network,Provence-Alpes-Côte d’Azur,Public tender,12
+CUST-057,Groupe Médical Lumière 57,Medical laboratory,Auvergne-Rhône-Alpes,Contract,5
+CUST-058,Centre Hospitalier Atlantique 58,Regional health network,Occitanie,Public tender,12
+CUST-059,Laboratoire Bastille 59,Regional health network,Provence-Alpes-Côte d’Azur,Public tender,12
+CUST-060,Réseau Santé Rivoli 60,University hospital,Provence-Alpes-Côte d’Azur,Public tender,10
+CUST-061,Groupe Médical Atlantique 61,University hospital,Auvergne-Rhône-Alpes,Public tender,10
+CUST-062,Laboratoire Lumière 62,Regional health network,Provence-Alpes-Côte d’Azur,Public tender,12
+CUST-063,Groupe Médical Rivoli 63,Care home,Nouvelle-Aquitaine,Contract,8
+CUST-064,Clinique Mistral 64,University hospital,Île-de-France,Public tender,10
+CUST-065,Laboratoire Bastille 65,Care home,Occitanie,Contract,8
+CUST-066,Groupe Médical Lumière 66,University hospital,Nouvelle-Aquitaine,Public tender,10
+CUST-067,Centre Hospitalier Bastille 67,University hospital,Occitanie,Public tender,10
+CUST-068,Clinique Lumière 68,Care home,Occitanie,Contract,8
+CUST-069,Laboratoire Atlantique 69,Care home,Occitanie,Contract,8
+CUST-070,Réseau Santé Mistral 70,Regional health network,Occitanie,Public tender,12
+CUST-071,Centre Hospitalier Bastille 71,Care home,Provence-Alpes-Côte d’Azur,Contract,8
+CUST-072,Laboratoire Lumière 72,Private clinic,Auvergne-Rhône-Alpes,Contract,7
+CUST-073,Groupe Médical Bastille 73,University hospital,Auvergne-Rhône-Alpes,Public tender,10
+CUST-074,Groupe Médical Lumière 74,Regional health network,Occitanie,Public tender,12
+CUST-075,Réseau Santé Bastille 75,Care home,Occitanie,Contract,8
+CUST-076,Clinique Mistral 76,Regional health network,Auvergne-Rhône-Alpes,Public tender,12
+CUST-077,Groupe Médical Atlantique 77,Medical laboratory,Occitanie,Contract,5
+CUST-078,Laboratoire Atlantique 78,Care home,Provence-Alpes-Côte d’Azur,Contract,8
+CUST-079,Réseau Santé Lumière 79,Regional health network,Auvergne-Rhône-Alpes,Public tender,12
+CUST-080,Laboratoire Lumière 80,University hospital,Occitanie,Public tender,10
+CUST-081,Centre Hospitalier Rivoli 81,Regional health network,Île-de-France,Public tender,12
+CUST-082,Clinique Atlantique 82,Medical laboratory,Occitanie,Contract,5
+CUST-083,Centre Hospitalier Bastille 83,University hospital,Provence-Alpes-Côte d’Azur,Public tender,10
+CUST-084,Laboratoire Lumière 84,Private clinic,Nouvelle-Aquitaine,Contract,7
+CUST-085,Clinique Rivoli 85,Private clinic,Auvergne-Rhône-Alpes,Contract,7
+CUST-086,Groupe Médical Lumière 86,Regional health network,Auvergne-Rhône-Alpes,Public tender,12
+CUST-087,Groupe Médical Atlantique 87,Medical laboratory,Île-de-France,Contract,5
+CUST-088,Centre Hospitalier Lumière 88,Medical laboratory,Provence-Alpes-Côte d’Azur,Contract,5
+CUST-089,Centre Hospitalier Atlantique 89,Private clinic,Île-de-France,Contract,7
+CUST-090,Laboratoire Bastille 90,Medical laboratory,Île-de-France,Contract,5
+CUST-091,Réseau Santé Lumière 91,Care home,Nouvelle-Aquitaine,Contract,8
+CUST-092,Groupe Médical Mistral 92,Private clinic,Nouvelle-Aquitaine,Contract,7
+CUST-093,Groupe Médical Rivoli 93,Medical laboratory,Nouvelle-Aquitaine,Contract,5
+CUST-094,Groupe Médical Bastille 94,Private clinic,Provence-Alpes-Côte d’Azur,Contract,7
+CUST-095,Laboratoire Rivoli 95,Regional health network,Occitanie,Public tender,12
+CUST-096,Laboratoire Lumière 96,Private clinic,Provence-Alpes-Côte d’Azur,Contract,7
+CUST-097,Clinique Rivoli 97,Private clinic,Nouvelle-Aquitaine,Contract,7
+CUST-098,Centre Hospitalier Lumière 98,University hospital,Nouvelle-Aquitaine,Public tender,10
+CUST-099,Réseau Santé Atlantique 99,Regional health network,Auvergne-Rhône-Alpes,Public tender,12
+CUST-100,Groupe Médical Lumière 100,Private clinic,Occitanie,Contract,7
+CUST-101,Clinique Lumière 101,Regional health network,Provence-Alpes-Côte d’Azur,Public tender,12
+CUST-102,Groupe Médical Atlantique 102,Care home,Nouvelle-Aquitaine,Contract,8
+CUST-103,Clinique Atlantique 103,Medical laboratory,Occitanie,Contract,5
+CUST-104,Centre Hospitalier Mistral 104,University hospital,Nouvelle-Aquitaine,Public tender,10
+CUST-105,Groupe Médical Mistral 105,Regional health network,Occitanie,Public tender,12
+CUST-106,Groupe Médical Mistral 106,Care home,Auvergne-Rhône-Alpes,Contract,8
+CUST-107,Centre Hospitalier Rivoli 107,Private clinic,Provence-Alpes-Côte d’Azur,Contract,7
+CUST-108,Laboratoire Rivoli 108,Care home,Auvergne-Rhône-Alpes,Contract,8
+CUST-109,Clinique Atlantique 109,Medical laboratory,Nouvelle-Aquitaine,Contract,5
+CUST-110,Réseau Santé Lumière 110,University hospital,Île-de-France,Public tender,10
+CUST-111,Groupe Médical Rivoli 111,Medical laboratory,Provence-Alpes-Côte d’Azur,Contract,5
+CUST-112,Groupe Médical Lumière 112,Care home,Île-de-France,Contract,8
+CUST-113,Réseau Santé Rivoli 113,Medical laboratory,Auvergne-Rhône-Alpes,Contract,5
+CUST-114,Laboratoire Atlantique 114,Regional health network,Auvergne-Rhône-Alpes,Public tender,12
+CUST-115,Groupe Médical Atlantique 115,Regional health network,Occitanie,Public tender,12
+CUST-116,Groupe Médical Bastille 116,Care home,Provence-Alpes-Côte d’Azur,Contract,8
+CUST-117,Clinique Bastille 117,University hospital,Provence-Alpes-Côte d’Azur,Public tender,10
+CUST-118,Centre Hospitalier Bastille 118,Medical laboratory,Auvergne-Rhône-Alpes,Contract,5
+CUST-119,Réseau Santé Mistral 119,Private clinic,Auvergne-Rhône-Alpes,Contract,7
+CUST-120,Réseau Santé Bastille 120,Care home,Nouvelle-Aquitaine,Contract,8
+CUST-121,Réseau Santé Bastille 121,Regional health network,Occitanie,Public tender,12
+CUST-122,Centre Hospitalier Atlantique 122,Medical laboratory,Nouvelle-Aquitaine,Contract,5
+CUST-123,Laboratoire Rivoli 123,Private clinic,Auvergne-Rhône-Alpes,Contract,7
+CUST-124,Clinique Rivoli 124,Regional health network,Auvergne-Rhône-Alpes,Public tender,12
+CUST-125,Clinique Mistral 125,Medical laboratory,Nouvelle-Aquitaine,Contract,5
+CUST-126,Clinique Bastille 126,Private clinic,Île-de-France,Contract,7
+CUST-127,Réseau Santé Lumière 127,Private clinic,Île-de-France,Contract,7
+CUST-128,Laboratoire Lumière 128,Regional health network,Île-de-France,Public tender,12
+CUST-129,Laboratoire Lumière 129,Medical laboratory,Auvergne-Rhône-Alpes,Contract,5
+CUST-130,Clinique Rivoli 130,University hospital,Nouvelle-Aquitaine,Public tender,10
+CUST-131,Laboratoire Mistral 131,Regional health network,Auvergne-Rhône-Alpes,Public tender,12
+CUST-132,Réseau Santé Lumière 132,Medical laboratory,Auvergne-Rhône-Alpes,Contract,5
+CUST-133,Centre Hospitalier Atlantique 133,Regional health network,Nouvelle-Aquitaine,Public tender,12
+CUST-134,Clinique Mistral 134,Private clinic,Nouvelle-Aquitaine,Contract,7
+CUST-135,Clinique Mistral 135,Care home,Occitanie,Contract,8
+CUST-136,Centre Hospitalier Bastille 136,University hospital,Occitanie,Public tender,10
+CUST-137,Laboratoire Lumière 137,University hospital,Île-de-France,Public tender,10
+CUST-138,Laboratoire Atlantique 138,Private clinic,Nouvelle-Aquitaine,Contract,7
+CUST-139,Réseau Santé Mistral 139,Care home,Auvergne-Rhône-Alpes,Contract,8
+CUST-140,Laboratoire Lumière 140,University hospital,Occitanie,Public tender,10
+CUST-141,Laboratoire Rivoli 141,Private clinic,Occitanie,Contract,7
+CUST-142,Centre Hospitalier Mistral 142,Care home,Nouvelle-Aquitaine,Contract,8
+CUST-143,Laboratoire Bastille 143,Regional health network,Nouvelle-Aquitaine,Public tender,12
+CUST-144,Clinique Mistral 144,Regional health network,Île-de-France,Public tender,12
+CUST-145,Groupe Médical Mistral 145,Regional health network,Île-de-France,Public tender,12
+CUST-146,Centre Hospitalier Mistral 146,University hospital,Occitanie,Public tender,10
+CUST-147,Laboratoire Rivoli 147,Regional health network,Provence-Alpes-Côte d’Azur,Public tender,12
+CUST-148,Laboratoire Lumière 148,University hospital,Provence-Alpes-Côte d’Azur,Public tender,10
+CUST-149,Centre Hospitalier Bastille 149,Care home,Nouvelle-Aquitaine,Contract,8
+CUST-150,Réseau Santé Atlantique 150,Regional health network,Auvergne-Rhône-Alpes,Public tender,12
+CUST-151,Laboratoire Lumière 151,Care home,Auvergne-Rhône-Alpes,Contract,8
+CUST-152,Réseau Santé Mistral 152,Regional health network,Provence-Alpes-Côte d’Azur,Public tender,12
+CUST-153,Clinique Rivoli 153,Regional health network,Nouvelle-Aquitaine,Public tender,12
+CUST-154,Centre Hospitalier Bastille 154,University hospital,Île-de-France,Public tender,10
+CUST-155,Réseau Santé Lumière 155,Private clinic,Provence-Alpes-Côte d’Azur,Contract,7
+CUST-156,Groupe Médical Lumière 156,Medical laboratory,Provence-Alpes-Côte d’Azur,Contract,5
+CUST-157,Centre Hospitalier Rivoli 157,Private clinic,Île-de-France,Contract,7
+CUST-158,Clinique Lumière 158,Private clinic,Provence-Alpes-Côte d’Azur,Contract,7
+CUST-159,Réseau Santé Mistral 159,Care home,Occitanie,Contract,8
+CUST-160,Réseau Santé Atlantique 160,Regional health network,Nouvelle-Aquitaine,Public tender,12
+CUST-161,Laboratoire Rivoli 161,University hospital,Provence-Alpes-Côte d’Azur,Public tender,10
+CUST-162,Clinique Atlantique 162,Regional health network,Provence-Alpes-Côte d’Azur,Public tender,12
+CUST-163,Centre Hospitalier Lumière 163,Private clinic,Occitanie,Contract,7
+CUST-164,Clinique Rivoli 164,Care home,Occitanie,Contract,8
+CUST-165,Clinique Bastille 165,Medical laboratory,Auvergne-Rhône-Alpes,Contract,5
+CUST-166,Clinique Lumière 166,Care home,Nouvelle-Aquitaine,Contract,8
+CUST-167,Clinique Atlantique 167,Regional health network,Auvergne-Rhône-Alpes,Public tender,12
+CUST-168,Réseau Santé Lumière 168,Medical laboratory,Occitanie,Contract,5
+CUST-169,Groupe Médical Rivoli 169,University hospital,Auvergne-Rhône-Alpes,Public tender,10
+CUST-170,Laboratoire Bastille 170,Care home,Provence-Alpes-Côte d’Azur,Contract,8
+CUST-171,Laboratoire Bastille 171,Medical laboratory,Provence-Alpes-Côte d’Azur,Contract,5
+CUST-172,Clinique Lumière 172,Care home,Provence-Alpes-Côte d’Azur,Contract,8
+CUST-173,Réseau Santé Bastille 173,Private clinic,Auvergne-Rhône-Alpes,Contract,7
+CUST-174,Groupe Médical Lumière 174,Medical laboratory,Nouvelle-Aquitaine,Contract,5
+CUST-175,Groupe Médical Rivoli 175,University hospital,Occitanie,Public tender,10
+CUST-176,Laboratoire Lumière 176,Private clinic,Provence-Alpes-Côte d’Azur,Contract,7
+CUST-177,Clinique Mistral 177,Private clinic,Nouvelle-Aquitaine,Contract,7
+CUST-178,Clinique Mistral 178,Medical laboratory,Île-de-France,Contract,5
+CUST-179,Centre Hospitalier Bastille 179,Care home,Île-de-France,Contract,8
+CUST-180,Groupe Médical Mistral 180,Regional health network,Occitanie,Public tender,12
+CUST-181,Centre Hospitalier Bastille 181,Medical laboratory,Occitanie,Contract,5
+CUST-182,Laboratoire Bastille 182,Private clinic,Auvergne-Rhône-Alpes,Contract,7
+CUST-183,Laboratoire Lumière 183,Private clinic,Occitanie,Contract,7
+CUST-184,Réseau Santé Rivoli 184,University hospital,Nouvelle-Aquitaine,Public tender,10
+CUST-185,Laboratoire Bastille 185,Private clinic,Auvergne-Rhône-Alpes,Contract,7
+CUST-186,Groupe Médical Atlantique 186,Regional health network,Nouvelle-Aquitaine,Public tender,12
+CUST-187,Réseau Santé Mistral 187,University hospital,Île-de-France,Public tender,10
+CUST-188,Réseau Santé Lumière 188,Private clinic,Provence-Alpes-Côte d’Azur,Contract,7
+CUST-189,Centre Hospitalier Mistral 189,Regional health network,Occitanie,Public tender,12
+CUST-190,Groupe Médical Rivoli 190,Medical laboratory,Provence-Alpes-Côte d’Azur,Contract,5
+CUST-191,Réseau Santé Rivoli 191,Medical laboratory,Occitanie,Contract,5
+CUST-192,Centre Hospitalier Mistral 192,Care home,Occitanie,Contract,8
+CUST-193,Réseau Santé Mistral 193,Private clinic,Occitanie,Contract,7
+CUST-194,Clinique Lumière 194,Private clinic,Occitanie,Contract,7
+CUST-195,Réseau Santé Bastille 195,Regional health network,Auvergne-Rhône-Alpes,Public tender,12
+CUST-196,Réseau Santé Lumière 196,Regional health network,Provence-Alpes-Côte d’Azur,Public tender,12
+CUST-197,Réseau Santé Rivoli 197,Medical laboratory,Provence-Alpes-Côte d’Azur,Contract,5
+CUST-198,Réseau Santé Atlantique 198,University hospital,Île-de-France,Public tender,10
+CUST-199,Laboratoire Atlantique 199,University hospital,Auvergne-Rhône-Alpes,Public tender,10
+CUST-200,Laboratoire Rivoli 200,Private clinic,Île-de-France,Contract,7
+CUST-201,Centre Hospitalier Lumière 201,Care home,Auvergne-Rhône-Alpes,Contract,8
+CUST-202,Réseau Santé Bastille 202,Care home,Île-de-France,Contract,8
+CUST-203,Laboratoire Rivoli 203,Private clinic,Île-de-France,Contract,7
+CUST-204,Réseau Santé Mistral 204,Care home,Nouvelle-Aquitaine,Contract,8
+CUST-205,Centre Hospitalier Rivoli 205,Private clinic,Occitanie,Contract,7
+CUST-206,Centre Hospitalier Rivoli 206,Regional health network,Nouvelle-Aquitaine,Public tender,12
+CUST-207,Réseau Santé Rivoli 207,University hospital,Nouvelle-Aquitaine,Public tender,10
+CUST-208,Centre Hospitalier Mistral 208,Care home,Auvergne-Rhône-Alpes,Contract,8
+CUST-209,Centre Hospitalier Atlantique 209,University hospital,Occitanie,Public tender,10
+CUST-210,Clinique Lumière 210,University hospital,Provence-Alpes-Côte d’Azur,Public tender,10
+CUST-211,Groupe Médical Rivoli 211,University hospital,Nouvelle-Aquitaine,Public tender,10
+CUST-212,Groupe Médical Bastille 212,Medical laboratory,Provence-Alpes-Côte d’Azur,Contract,5
+CUST-213,Réseau Santé Lumière 213,Regional health network,Provence-Alpes-Côte d’Azur,Public tender,12
+CUST-214,Groupe Médical Bastille 214,Care home,Île-de-France,Contract,8
+CUST-215,Laboratoire Rivoli 215,University hospital,Provence-Alpes-Côte d’Azur,Public tender,10
+CUST-216,Centre Hospitalier Lumière 216,University hospital,Occitanie,Public tender,10
+CUST-217,Réseau Santé Lumière 217,Care home,Île-de-France,Contract,8
+CUST-218,Laboratoire Atlantique 218,Private clinic,Auvergne-Rhône-Alpes,Contract,7
+CUST-219,Laboratoire Bastille 219,Care home,Provence-Alpes-Côte d’Azur,Contract,8
+CUST-220,Réseau Santé Mistral 220,Medical laboratory,Auvergne-Rhône-Alpes,Contract,5
+CUST-221,Centre Hospitalier Rivoli 221,Medical laboratory,Auvergne-Rhône-Alpes,Contract,5
+CUST-222,Groupe Médical Atlantique 222,Medical laboratory,Île-de-France,Contract,5
+CUST-223,Groupe Médical Atlantique 223,University hospital,Auvergne-Rhône-Alpes,Public tender,10
+CUST-224,Laboratoire Lumière 224,Care home,Provence-Alpes-Côte d’Azur,Contract,8
+CUST-225,Centre Hospitalier Lumière 225,Regional health network,Occitanie,Public tender,12
+CUST-226,Centre Hospitalier Rivoli 226,University hospital,Provence-Alpes-Côte d’Azur,Public tender,10
+CUST-227,Clinique Rivoli 227,University hospital,Île-de-France,Public tender,10
+CUST-228,Clinique Bastille 228,University hospital,Île-de-France,Public tender,10
+CUST-229,Réseau Santé Rivoli 229,Medical laboratory,Île-de-France,Contract,5
+CUST-230,Laboratoire Atlantique 230,Care home,Occitanie,Contract,8
+CUST-231,Centre Hospitalier Mistral 231,Private clinic,Occitanie,Contract,7
+CUST-232,Centre Hospitalier Atlantique 232,Medical laboratory,Île-de-France,Contract,5
+CUST-233,Laboratoire Lumière 233,Private clinic,Provence-Alpes-Côte d’Azur,Contract,7
+CUST-234,Groupe Médical Mistral 234,Regional health network,Auvergne-Rhône-Alpes,Public tender,12
+CUST-235,Centre Hospitalier Atlantique 235,Private clinic,Nouvelle-Aquitaine,Contract,7
+CUST-236,Laboratoire Bastille 236,University hospital,Provence-Alpes-Côte d’Azur,Public tender,10
+CUST-237,Groupe Médical Rivoli 237,Care home,Provence-Alpes-Côte d’Azur,Contract,8
+CUST-238,Centre Hospitalier Atlantique 238,Private clinic,Nouvelle-Aquitaine,Contract,7
+CUST-239,Laboratoire Mistral 239,Care home,Occitanie,Contract,8
+CUST-240,Laboratoire Bastille 240,University hospital,Île-de-France,Public tender,10

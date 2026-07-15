@@ -1,0 +1,61 @@
+supplier_id,supplier_name,country,region,currency,transport_mode,incoterm,order_weekday,contract_lead_days,minimum_order_value_eur,reliability_class,payment_terms_days,china_cny_sensitive,agreement_year,annual_rebate_threshold_eur,annual_rebate_rate,rebate_qualifying_definition
+SUP-001,Maison Medical Supply 1,France,Europe,EUR,Road,DAP European DC,Tuesday,10,300,C,30,0,0,0,0,NOT_APPLICABLE
+SUP-002,Maison Medical Supply 2,France,Europe,EUR,Road,DAP European DC,Friday,9,1000,B,60,0,0,0,0,NOT_APPLICABLE
+SUP-003,Maison Clinical Supply 3,France,Europe,EUR,Road,DAP European DC,Thursday,9,2500,A,60,0,0,0,0,NOT_APPLICABLE
+SUP-004,Maison Clinical Supply 4,France,Europe,EUR,Road,DAP European DC,Thursday,12,500,C,45,0,0,0,0,NOT_APPLICABLE
+SUP-005,Maison Care Supply 5,France,Europe,EUR,Road,DAP European DC,Friday,10,2500,A,30,0,2026,25000,0.02,Accepted non-cancellable PO spend in agreement year
+SUP-006,Maison Clinical Supply 6,France,Europe,EUR,Road,DAP European DC,Tuesday,8,500,A,60,0,2026,50000,0.01,Accepted non-cancellable PO spend in agreement year
+SUP-007,Maison Medical Supply 7,France,Europe,EUR,Road,DAP European DC,Monday,15,1500,C,60,0,0,0,0,NOT_APPLICABLE
+SUP-008,Maison Hospital Supply 8,France,Europe,EUR,Road,DAP European DC,Monday,9,750,C,60,0,0,0,0,NOT_APPLICABLE
+SUP-009,Maison Clinical Supply 9,France,Europe,EUR,Road,DAP European DC,Tuesday,13,2500,A,60,0,0,0,0,NOT_APPLICABLE
+SUP-010,Maison Medical Supply 10,France,Europe,EUR,Road,DAP European DC,Wednesday,7,500,A,60,0,0,0,0,NOT_APPLICABLE
+SUP-011,Maison Medical Supply 11,France,Europe,EUR,Road,DAP European DC,Friday,9,1000,C,45,0,0,0,0,NOT_APPLICABLE
+SUP-012,Maison Clinical Supply 12,France,Europe,EUR,Road,DAP European DC,Monday,9,1500,C,60,0,2026,25000,0.03,Accepted non-cancellable PO spend in agreement year
+SUP-013,Maison Hospital Supply 13,France,Europe,EUR,Road,DAP European DC,Wednesday,6,750,A,30,0,2026,75000,0.015,Accepted non-cancellable PO spend in agreement year
+SUP-014,Maison Medical Supply 14,France,Europe,EUR,Road,DAP European DC,Thursday,10,500,C,60,0,0,0,0,NOT_APPLICABLE
+SUP-015,Maison Care Supply 15,France,Europe,EUR,Road,DAP European DC,Friday,15,300,A,30,0,0,0,0,NOT_APPLICABLE
+SUP-016,Rhein Health Supply 16,Germany,Europe,EUR,Road,DAP European DC,Wednesday,14,300,A,60,0,2026,100000,0.015,Accepted non-cancellable PO spend in agreement year
+SUP-017,Rhein Hospital Supply 17,Germany,Europe,EUR,Road,DAP European DC,Tuesday,20,2500,C,45,0,0,0,0,NOT_APPLICABLE
+SUP-018,Rhein Health Supply 18,Germany,Europe,EUR,Road,DAP European DC,Thursday,14,300,C,45,0,0,0,0,NOT_APPLICABLE
+SUP-019,Rhein Care Supply 19,Germany,Europe,EUR,Road,DAP European DC,Monday,19,750,B,45,0,0,0,0,NOT_APPLICABLE
+SUP-020,Rhein Clinical Supply 20,Germany,Europe,EUR,Road,DAP European DC,Tuesday,17,2500,C,60,0,0,0,0,NOT_APPLICABLE
+SUP-021,Rhein Health Supply 21,Germany,Europe,EUR,Road,DAP European DC,Monday,25,300,A,30,0,2026,25000,0.015,Accepted non-cancellable PO spend in agreement year
+SUP-022,Rhein Care Supply 22,Germany,Europe,EUR,Road,DAP European DC,Monday,24,500,A,45,0,2026,100000,0.02,Accepted non-cancellable PO spend in agreement year
+SUP-023,Rhein Medical Supply 23,Germany,Europe,EUR,Road,DAP European DC,Wednesday,25,2500,A,30,0,2026,100000,0.03,Accepted non-cancellable PO spend in agreement year
+SUP-024,Luce Hospital Supply 24,Italy,Europe,EUR,Road,DAP European DC,Tuesday,13,1000,A,45,0,0,0,0,NOT_APPLICABLE
+SUP-025,Luce Care Supply 25,Italy,Europe,EUR,Road,DAP European DC,Friday,16,300,B,60,0,0,0,0,NOT_APPLICABLE
+SUP-026,Luce Care Supply 26,Italy,Europe,EUR,Road,DAP European DC,Monday,24,1000,B,60,0,0,0,0,NOT_APPLICABLE
+SUP-027,Luce Clinical Supply 27,Italy,Europe,EUR,Road,DAP European DC,Wednesday,13,2500,A,30,0,0,0,0,NOT_APPLICABLE
+SUP-028,Luce Hospital Supply 28,Italy,Europe,EUR,Road,DAP European DC,Tuesday,19,500,C,30,0,0,0,0,NOT_APPLICABLE
+SUP-029,Luce Hospital Supply 29,Italy,Europe,EUR,Road,DAP European DC,Wednesday,12,1500,A,60,0,0,0,0,NOT_APPLICABLE
+SUP-030,Luce Clinical Supply 30,Italy,Europe,EUR,Road,DAP European DC,Wednesday,21,300,B,30,0,0,0,0,NOT_APPLICABLE
+SUP-031,Iberia Clinical Supply 31,Spain,Europe,EUR,Road,DAP European DC,Friday,10,750,A,30,0,0,0,0,NOT_APPLICABLE
+SUP-032,Iberia Medical Supply 32,Spain,Europe,EUR,Road,DAP European DC,Friday,12,1500,A,30,0,0,0,0,NOT_APPLICABLE
+SUP-033,Iberia Health Supply 33,Spain,Europe,EUR,Road,DAP European DC,Friday,11,750,C,45,0,0,0,0,NOT_APPLICABLE
+SUP-034,Iberia Hospital Supply 34,Spain,Europe,EUR,Road,DAP European DC,Tuesday,12,500,A,30,0,0,0,0,NOT_APPLICABLE
+SUP-035,Iberia Medical Supply 35,Spain,Europe,EUR,Road,DAP European DC,Monday,13,750,B,30,0,2026,50000,0.01,Accepted non-cancellable PO spend in agreement year
+SUP-036,Iberia Medical Supply 36,Spain,Europe,EUR,Road,DAP European DC,Thursday,21,1000,B,30,0,0,0,0,NOT_APPLICABLE
+SUP-037,Delta Medical Supply 37,Netherlands,Europe,EUR,Road,DAP European DC,Tuesday,17,500,A,30,0,0,0,0,NOT_APPLICABLE
+SUP-038,Delta Care Supply 38,Netherlands,Europe,EUR,Road,DAP European DC,Wednesday,20,1000,C,30,0,2026,50000,0.02,Accepted non-cancellable PO spend in agreement year
+SUP-039,Delta Health Supply 39,Netherlands,Europe,EUR,Road,DAP European DC,Monday,13,300,B,45,0,0,0,0,NOT_APPLICABLE
+SUP-040,Delta Health Supply 40,Netherlands,Europe,EUR,Road,DAP European DC,Wednesday,19,500,B,60,0,0,0,0,NOT_APPLICABLE
+SUP-041,Delta Clinical Supply 41,Netherlands,Europe,EUR,Road,DAP European DC,Tuesday,12,2500,A,45,0,2026,25000,0.02,Accepted non-cancellable PO spend in agreement year
+SUP-042,Anatolia Hospital Supply 42,Turkey,Europe,EUR,Road,DAP European DC,Monday,33,750,B,45,0,0,0,0,NOT_APPLICABLE
+SUP-043,Anatolia Hospital Supply 43,Turkey,Europe,EUR,Road,DAP European DC,Wednesday,31,500,C,60,0,2026,50000,0.015,Accepted non-cancellable PO spend in agreement year
+SUP-044,Anatolia Health Supply 44,Turkey,Europe,EUR,Road,DAP European DC,Tuesday,32,500,A,30,0,0,0,0,NOT_APPLICABLE
+SUP-045,Anatolia Medical Supply 45,Turkey,Europe,EUR,Road,DAP European DC,Friday,39,1500,B,45,0,2026,25000,0.015,Accepted non-cancellable PO spend in agreement year
+SUP-046,Anatolia Hospital Supply 46,Turkey,Europe,EUR,Road,DAP European DC,Wednesday,47,1500,B,30,0,0,0,0,NOT_APPLICABLE
+SUP-047,Jade Hospital Supply 47,China,Asia,EUR,Ocean,FOB Shanghai,Monday,86,300,A,60,1,0,0,0,NOT_APPLICABLE
+SUP-048,Jade Hospital Supply 48,China,Asia,EUR,Ocean,FOB Shanghai,Wednesday,72,2500,B,45,1,0,0,0,NOT_APPLICABLE
+SUP-049,Jade Health Supply 49,China,Asia,EUR,Ocean,FOB Shanghai,Friday,72,300,B,30,1,2026,25000,0.02,Accepted non-cancellable PO spend in agreement year
+SUP-050,Jade Health Supply 50,China,Asia,EUR,Ocean,FOB Shanghai,Thursday,72,2500,C,30,1,0,0,0,NOT_APPLICABLE
+SUP-051,Jade Medical Supply 51,China,Asia,EUR,Ocean,FOB Shanghai,Thursday,79,1000,C,60,1,0,0,0,NOT_APPLICABLE
+SUP-052,Jade Care Supply 52,China,Asia,EUR,Ocean,FOB Shanghai,Thursday,80,1500,B,45,1,0,0,0,NOT_APPLICABLE
+SUP-053,Jade Hospital Supply 53,China,Asia,EUR,Ocean,FOB Shanghai,Friday,75,2500,B,60,1,0,0,0,NOT_APPLICABLE
+SUP-054,Jade Clinical Supply 54,China,Asia,EUR,Ocean,FOB Shanghai,Monday,66,2500,B,45,1,0,0,0,NOT_APPLICABLE
+SUP-055,Jade Hospital Supply 55,China,Asia,EUR,Ocean,FOB Shanghai,Wednesday,74,500,C,60,1,0,0,0,NOT_APPLICABLE
+SUP-056,Jade Hospital Supply 56,China,Asia,EUR,Ocean,FOB Shanghai,Monday,68,1500,A,60,1,0,0,0,NOT_APPLICABLE
+SUP-057,Arden Hospital Supply 57,Belgium,Europe,EUR,Road,DAP European DC,Wednesday,6,300,B,60,0,2026,100000,0.015,Accepted non-cancellable PO spend in agreement year
+SUP-058,Arden Health Supply 58,Belgium,Europe,EUR,Road,DAP European DC,Tuesday,9,2500,B,30,0,2026,75000,0.015,Accepted non-cancellable PO spend in agreement year
+SUP-059,Arden Medical Supply 59,Belgium,Europe,EUR,Road,DAP European DC,Thursday,7,500,B,45,0,0,0,0,NOT_APPLICABLE
+SUP-060,Arden Hospital Supply 60,Belgium,Europe,EUR,Road,DAP European DC,Thursday,10,300,B,45,0,2026,100000,0.02,Accepted non-cancellable PO spend in agreement year

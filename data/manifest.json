@@ -1,0 +1,13 @@
+{
+  "instructor/future_daily_demand.csv": "b001988482cc6fe1cfb46197941df47c99ab70436bc94e39f72e37d80a747361",
+  "instructor/latent_demand_history.csv": "5a153418e2d42353407f61c4f72c7095f276266236a86794eed431a459037ef1",
+  "public/current_inventory.csv": "b1a451f129b8d9b595e9e11fd2522900d0e4e88c079828ec111d99749f70a600",
+  "public/customer_master.csv": "05c21fabfa070cf7a4087e5bf16e85d3f6428fd3e8f7717933243e0b65778c29",
+  "public/daily_stock_history.csv": "81eaa2cca3642477dc63aaec89f27c001a5336cc7c7c81eb7cf177f9f4006c1c",
+  "public/inventory_movements.csv": "7aa03b5a39e02c44a62c81a1458524f9655ac21f14580ec02820c48f405d54bf",
+  "public/item_master.csv": "f7c4dad70386fa2dbd928e694a706a0b028429dec9bff2390e3879ce9ee05242",
+  "public/purchase_orders.csv": "4be6f0f0bbd57a9af70335b838eed92a1ba942ec426c8a66515d6b19d9ae5205",
+  "public/sales_order_lines.csv": "4a85922a3233ad8b8352958398e55dd18e0a879f533d1775c458f20260fae9c9",
+  "public/sales_orders.csv": "484703ee0b6c40bedfb77dc85455679fc0c30e3b1d3203440fda86b4cdb960e4",
+  "public/supplier_master.csv": "cdaab5f5a77f9d17c0e35ba6008456a2f8238b9731b8ffe056341bae2fe7d4a3"
+}
